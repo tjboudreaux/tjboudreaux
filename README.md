@@ -13,6 +13,6 @@
 - 🛠️ I build with:  `.ts`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.py`, `.rs`, `.go`, `.sql`, `.tf`
 - 🏦 I invest in amazing pre-seed and seed stage teams [@AngelList](https://angel.co/u/travis-boudreaux). 
 - 🖊️ I write a [newsletter](https://mirror.xyz/tjboudreaux.eth) about web3, gaming and metaverse technology. 
-- 💬 Ping me about **engineering**, **growthg**, **web3**, **defi**, **gaming**, and **longevity**
+- 💬 Ping me about **engineering**, **growth**, **web3**, **defi**, **gaming**, and **longevity**
 - 📫 Reach me: [twitter.com/tjboudreaux](https://twitter.com/tjboudreaux)
 - 💪 Fun fact: I'm on a mission to live to 100!
