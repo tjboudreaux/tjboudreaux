@@ -1,5 +1,5 @@
 
-<img src="[https://github.com/sarah-hart-landolt/sarah-hart-landolt/blob/master/Sarah%20Hart%20Landolt.png](https://pbs.twimg.com/profile_banners/10854932/1649113440/1500x500)" alt="Azra Games banner">
+<img src="https://pbs.twimg.com/profile_banners/10854932/1649113440/1500x500" alt="Azra Games banner">
 ### Hi there 👋
 
 #### I'm a CTO, Angel Investor & Startup Advisor from Lafayette, LA.
