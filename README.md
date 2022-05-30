@@ -1,6 +1,7 @@
 
 <img src="https://pbs.twimg.com/profile_banners/10854932/1649113440/1500x500" alt="Azra Games banner">
-### Hi there 👋
+
+### 👋👋 Hi I'm Travis 👋👋
 
 #### I'm a CTO, Angel Investor & Startup Advisor from Lafayette, LA.
 
