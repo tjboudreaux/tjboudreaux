@@ -5,13 +5,10 @@
 
 #### I'm a CTO, Angel Investor & Startup Advisor from Lafayette, LA.
 
-##### NOW
+##### BIO
 
 - ⚡️ Building the future of web3 games [@AzraGames](https://github.com/AzraGames)
 - ⚡️⚡️⚡️ I'm hiring experienced web3 engineers, and talented web2 engineers looking to break into web3. DMs open or [apply here](https://apply.workable.com/azra-games/?lng=en).
-
-##### BIO
-
 - 🏢 ex-[UpWork](https://github.com/Upwork), ex-[Waitr](https://github.com/WaitrInc), ex-[Swimply](https://github.com/Swimply)
 - 🛠️ I build with:  `.ts`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.py`, `.rs`, `.go`, `.sql`, `.tf`
 - 🏦 I invest in amazing pre-seed and seed stage teams [@AngelList](https://angel.co/u/travis-boudreaux). 
